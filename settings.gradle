@@ -1,0 +1,2 @@
+rootProject.name='ExSqlite'
+include ':app'
